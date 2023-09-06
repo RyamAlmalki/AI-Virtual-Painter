@@ -4,14 +4,13 @@ import numpy as np
 import HandTrackingModule as htm
 
 
-# Here we will the folder path of the top image
 folderPath = "paint"
 myList = os.listdir(folderPath)
 
 brushThickness = 15
 xp, yp = 0, 0
 
-# here we will loop to get the image inside the folder
+
 overlaylist = []
 for imPath in myList:
     image = cv2.imread(f'{folderPath}/{imPath}')
