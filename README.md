@@ -3,7 +3,6 @@
 </p>
 
 
-<h1 align="left">Virtual Painter</h1>
 
 <h1 align="left">Demo</h1>
 <p align="center">
