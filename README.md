@@ -9,3 +9,9 @@
 <p align="center">
     <img width="200" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/demo.png?raw=true" alt="Material Bread logo">
 </p>
+<p align="center">
+    <img width="200" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/demo.png?raw=true" alt="Material Bread logo">
+</p>
+<p align="center">
+    <img width="200" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/demo.png?raw=true" alt="Material Bread logo">
+</p>
