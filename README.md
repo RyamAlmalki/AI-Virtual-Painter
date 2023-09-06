@@ -7,5 +7,5 @@
 
 <h1 align="left">Demo</h1>
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/demo.png?raw=true" alt="Material Bread logo">
+    <img width="900" src="https://github.com/RyamAlmalki/AI-Virtual-Painter/blob/main/demo.png?raw=true" alt="Material Bread logo">
 </p>
